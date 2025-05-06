@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/levent kök" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levent kök" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/levent-k%c3%b6k-358076249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/levent-k%c3%b6k-358076249" height="30" width="40" /></a>
 <a href="https://instagram.com/levent_kok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="levent_kok" height="30" width="40" /></a>
 </p>
 
