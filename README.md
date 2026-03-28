@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on mobile projects<br>🤝 I’m looking for help with Kotlin, Flutter, dart<br>🌱 I’m still learning Kotlin<br>💬 Ask me about Android <br>
 
 
 ## 🌐 Socials:
