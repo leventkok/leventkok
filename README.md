@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo2&pause=1000&color=1AA1F7&width=435&lines=Hi%2C+welcome+my+profile!" alt="Typing SVG" /></a>
 ###
 
-<p align="left">My name is Levent, from Tureky</p>
+<p align="left">My name is Levent, from Turkey</p>
 
 ###
 
